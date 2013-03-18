@@ -1,4 +1,4 @@
 kohanabaseapp
 =============
 
-Kohana Base App
+Kohana Base App I use for my projects
